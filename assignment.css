@@ -1,0 +1,115 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+
+}
+
+body header{
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.65);
+	text-align: center;
+	padding: 40px 0px 40px 0px;
+	
+
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-size: 50px;
+	Color: rgba(0, 251, 134, 1);
+	padding-bottom: 0px;
+}
+h4 {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+	color: rgba(0, 221, 134, 1);
+	padding-bottom: 0px;
+}
+
+body nav{
+	padding: 20px 0px 20px 0px;
+	background-color: rgba(255, 255, 255, 1)
+	border-style: none;
+	width: 100%;
+	padding: 20px 0px 20px 0px;
+}
+
+.menu {
+	background-color: rgba(0, 206, 111, 1);
+	border-style: none;
+	margin: 0 auto;
+	border-radius: 20px;
+	padding: 20px 0px 20px 20px;
+	width: 1000px;	
+}
+
+a:link {
+	padding: 5px 15px 5px 10px;
+	color: rgb(255, 255, 255, 1);
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+}
+
+a:visited {
+	padding: 5px 15px 5px 10px;
+	color: rgba(255, 255, 255, 1);
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+}
+
+a:hover {
+	padding: 5px 15px 5px 10px;
+	color: rgba(0, 0, 0, 1);
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+}
+
+a:active {
+	padding: 5px 15px 5px 10px;
+	color: rgba(255, 255, 255, 1);
+	font-family: 'Lato', sans-serif;
+	font-size: 25px;
+}
+
+.img {
+	border-style: none;
+	text-align: center;
+	background-attachment: scroll;
+}
+
+body main {
+	width: 1000px;
+
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+}
+
+
+
+.left {
+	width: 320px;
+	
+	float: left;
+
+}
+.right {
+	width: 640px;
+
+	float: right;
+}
+
+body footer {
+	width: 100%;
+	height: 80px;
+	text-align: center;
+	background-attachment: scroll;
+	background-color: rgba(0, 0, 0, 0.65);
+	padding-top: 40px;
+	clear: both;
+}
+
+h6 {
+	font-size: 20px;
+	Color: rgba(0, 250, 0, 0.47);
+}
